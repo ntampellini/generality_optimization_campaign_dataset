@@ -1,0 +1,14 @@
+OAzcP7_free.xyz
+1  G=-3411.599724089610 Eh - Rel. G.=0.000 kcal/mol - G(corr)(Eh)=1.04395247
+2  G=-3411.598551098119 Eh - Rel. G.=0.736 kcal/mol - G(corr)(Eh)=1.04222229
+3  G=-3411.598415740634 Eh - Rel. G.=0.821 kcal/mol - G(corr)(Eh)=1.04331813
+4  G=-3411.598361333003 Eh - Rel. G.=0.855 kcal/mol - G(corr)(Eh)=1.04382897
+5  G=-3411.597542519802 Eh - Rel. G.=1.369 kcal/mol - G(corr)(Eh)=1.04153938
+6  G=-3411.596744540123 Eh - Rel. G.=1.870 kcal/mol - G(corr)(Eh)=1.04310644
+
+OAzcP7_hindered.xyz
+1  G=-3411.6044560382097 Eh - Rel. G.=0.000 kcal/mol - G(corr)(Eh)=1.04345094
+2  G=-3411.6039091052960 Eh - Rel. G.=0.343 kcal/mol - G(corr)(Eh)=1.04269571
+3  G=-3411.6035832716793 Eh - Rel. G.=0.548 kcal/mol - G(corr)(Eh)=1.04263435
+4  G=-3411.6026579146410 Eh - Rel. G.=1.128 kcal/mol - G(corr)(Eh)=1.04303523
+5  G=-3411.6013004289170 Eh - Rel. G.=1.980 kcal/mol - G(corr)(Eh)=1.04273948

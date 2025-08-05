@@ -1,0 +1,107 @@
+P7_S10_ent.xyz
+1  G = -3798.341551484714 Eh - Rel. G. = 0.000 kcal/mol - G(corr)(Eh) = 1.19195630
+2  G = -3798.341308032216 Eh - Rel. G. = 0.153 kcal/mol - G(corr)(Eh) = 1.19203484
+3  G = -3798.341206137354 Eh - Rel. G. = 0.217 kcal/mol - G(corr)(Eh) = 1.19222940
+4  G = -3798.339464487129 Eh - Rel. G. = 1.310 kcal/mol - G(corr)(Eh) = 1.19233828
+5  G = -3798.336031973637 Eh - Rel. G. = 3.464 kcal/mol - G(corr)(Eh) = 1.19164203
+6  G = -3798.334619305918 Eh - Rel. G. = 4.350 kcal/mol - G(corr)(Eh) = 1.19111190
+7  G = -3798.333586734929 Eh - Rel. G. = 4.998 kcal/mol - G(corr)(Eh) = 1.19132989
+8  G = -3798.332170816900 Eh - Rel. G. = 5.886 kcal/mol - G(corr)(Eh) = 1.19066223
+9  G = -3798.332146405581 Eh - Rel. G. = 5.902 kcal/mol - G(corr)(Eh) = 1.19065667
+10 G = -3798.329143501202 Eh - Rel. G. = 7.786 kcal/mol - G(corr)(Eh) = 1.18936361
+11 G = -3798.329057090994 Eh - Rel. G. = 7.840 kcal/mol - G(corr)(Eh) = 1.19140744
+12 G = -3798.328226017899 Eh - Rel. G. = 8.362 kcal/mol - G(corr)(Eh) = 1.18931243
+13 G = -3798.328013169582 Eh - Rel. G. = 8.495 kcal/mol - G(corr)(Eh) = 1.18904874
+14 G = -3798.327780749122 Eh - Rel. G. = 8.641 kcal/mol - G(corr)(Eh) = 1.18984190
+
+P7_S10_rep
+1  G = -3798.350060709359  Eh - Rel. G. = 0.000 kcal/mol - G(corr)(Eh) = 1.19298362
+2  G = -3798.3497802981133 Eh - Rel. G. = 0.176 kcal/mol - G(corr)(Eh) = 1.19338411
+3  G = -3798.349426467118  Eh - Rel. G. = 0.398 kcal/mol - G(corr)(Eh) = 1.19362180
+4  G = -3798.348852166775  Eh - Rel. G. = 0.758 kcal/mol - G(corr)(Eh) = 1.19245287
+5  G = -3798.348055562768  Eh - Rel. G. = 1.258 kcal/mol - G(corr)(Eh) = 1.19259269
+6  G = -3798.346445947092  Eh - Rel. G. = 2.268 kcal/mol - G(corr)(Eh) = 1.19268253
+7  G = -3798.3461473101856 Eh - Rel. G. = 2.456 kcal/mol - G(corr)(Eh) = 1.19413479
+8  G = -3798.3447399391544 Eh - Rel. G. = 3.339 kcal/mol - G(corr)(Eh) = 1.19225123
+9  G = -3798.343607442884  Eh - Rel. G. = 4.049 kcal/mol - G(corr)(Eh) = 1.19344589
+10 G = -3798.342000607248  Eh - Rel. G. = 5.058 kcal/mol - G(corr)(Eh) = 1.19266831
+11 G = -3798.3391758642288 Eh - Rel. G. = 6.830 kcal/mol - G(corr)(Eh) = 1.19248452
+12 G = -3798.3389662034    Eh - Rel. G. = 6.962 kcal/mol - G(corr)(Eh) = 1.19242710
+13 G = -3798.338752078407  Eh - Rel. G. = 7.096 kcal/mol - G(corr)(Eh) = 1.19090441
+
+P7_S15_ent
+1  G = -3374.455945241312  Eh - Rel. G. = 0.000 kcal/mol - G(corr)(Eh) = 1.04440371
+2  G = -3374.454031474744  Eh - Rel. G. = 1.201 kcal/mol - G(corr)(Eh) = 1.04367172
+3  G = -3374.453676364536  Eh - Rel. G. = 1.424 kcal/mol - G(corr)(Eh) = 1.04497289
+4  G = -3374.453567616183  Eh - Rel. G. = 1.492 kcal/mol - G(corr)(Eh) = 1.04620935
+5  G = -3374.451570197085  Eh - Rel. G. = 2.745 kcal/mol - G(corr)(Eh) = 1.04676664
+6  G = -3374.450686106803  Eh - Rel. G. = 3.300 kcal/mol - G(corr)(Eh) = 1.04258123
+7  G = -3374.450503410496  Eh - Rel. G. = 3.415 kcal/mol - G(corr)(Eh) = 1.04340689
+8  G = -3374.450474148718  Eh - Rel. G. = 3.433 kcal/mol - G(corr)(Eh) = 1.04432822
+9  G = -3374.450336669217  Eh - Rel. G. = 3.519 kcal/mol - G(corr)(Eh) = 1.04545931
+10 G = -3374.446869543723  Eh - Rel. G. = 5.695 kcal/mol - G(corr)(Eh) = 1.04345512
+11 G = -3374.446675113837  Eh - Rel. G. = 5.817 kcal/mol - G(corr)(Eh) = 1.04385377
+12 G = -3374.4465587005197 Eh - Rel. G. = 5.890 kcal/mol - G(corr)(Eh) = 1.04363868
+13 G = -3374.445323600783  Eh - Rel. G. = 6.665 kcal/mol - G(corr)(Eh) = 1.04368935
+14 G = -3374.445254293079  Eh - Rel. G. = 6.709 kcal/mol - G(corr)(Eh) = 1.04290003
+15 G = -3374.444163224838  Eh - Rel. G. = 7.393 kcal/mol - G(corr)(Eh) = 1.04468163
+16 G = -3374.441176545439  Eh - Rel. G. = 9.267 kcal/mol - G(corr)(Eh) = 1.04396647
+17 G = -3374.440938815829  Eh - Rel. G. = 9.417 kcal/mol - G(corr)(Eh) = 1.04324621
+18 G = -3374.4408701932316 Eh - Rel. G. = 9.460 kcal/mol - G(corr)(Eh) = 1.04296925
+19 G = -3374.440214896888  Eh - Rel. G. = 9.871 kcal/mol - G(corr)(Eh) = 1.04192080
+20 G = -3374.440196971806  Eh - Rel. G. = 9.882 kcal/mol - G(corr)(Eh) = 1.04286343
+
+P7_S15_rep
+1  G = -3374.4577148101357 Eh - Rel. G. = 0.000 kcal/mol - G(corr)(Eh) = 1.04438431
+2  G = -3374.455702724285  Eh - Rel. G. = 1.263 kcal/mol - G(corr)(Eh) = 1.04499542
+3  G = -3374.455631378184  Eh - Rel. G. = 1.307 kcal/mol - G(corr)(Eh) = 1.04397140
+4  G = -3374.455483817172  Eh - Rel. G. = 1.400 kcal/mol - G(corr)(Eh) = 1.04430791
+5  G = -3374.452456674449  Eh - Rel. G. = 3.300 kcal/mol - G(corr)(Eh) = 1.04381848
+6  G = -3374.449704273257  Eh - Rel. G. = 5.027 kcal/mol - G(corr)(Eh) = 1.04503186
+7  G = -3374.449465457055  Eh - Rel. G. = 5.177 kcal/mol - G(corr)(Eh) = 1.04476865
+8  G = -3374.449103830605  Eh - Rel. G. = 5.403 kcal/mol - G(corr)(Eh) = 1.04456166
+9  G = -3374.4489453660617 Eh - Rel. G. = 5.503 kcal/mol - G(corr)(Eh) = 1.04409531
+10 G = -3374.448759215796  Eh - Rel. G. = 5.620 kcal/mol - G(corr)(Eh) = 1.04374389
+11 G = -3374.4486466786584 Eh - Rel. G. = 5.690 kcal/mol - G(corr)(Eh) = 1.04327175
+12 G = -3374.448561266067  Eh - Rel. G. = 5.744 kcal/mol - G(corr)(Eh) = 1.04378477
+13 G = -3374.448220673896  Eh - Rel. G. = 5.958 kcal/mol - G(corr)(Eh) = 1.04305346
+14 G = -3374.447895306222  Eh - Rel. G. = 6.162 kcal/mol - G(corr)(Eh) = 1.04386397
+15 G = -3374.443713681677  Eh - Rel. G. = 8.786 kcal/mol - G(corr)(Eh) = 1.04258552
+16 G = -3374.443457950211  Eh - Rel. G. = 8.946 kcal/mol - G(corr)(Eh) = 1.04275881
+17 G = -3374.44342369924   Eh - Rel. G. = 8.968 kcal/mol - G(corr)(Eh) = 1.04304445
+
+P7_S4_ent
+1  G = -3530.3896437053354 Eh - Rel. G. = 0.000 kcal/mol - G(corr)(Eh) = 1.16616735
+2  G = -3530.3855601260743 Eh - Rel. G. = 2.562 kcal/mol - G(corr)(Eh) = 1.16382266
+3  G = -3530.3842030941782 Eh - Rel. G. = 3.414 kcal/mol - G(corr)(Eh) = 1.16476724
+4  G = -3530.382481108541  Eh - Rel. G. = 4.495 kcal/mol - G(corr)(Eh) = 1.16504551
+5  G = -3530.382070197979  Eh - Rel. G. = 4.752 kcal/mol - G(corr)(Eh) = 1.16574313
+6  G = -3530.382004439334  Eh - Rel. G. = 4.794 kcal/mol - G(corr)(Eh) = 1.16611893
+7  G = -3530.381313725572  Eh - Rel. G. = 5.227 kcal/mol - G(corr)(Eh) = 1.16456803
+8  G = -3530.381012211448  Eh - Rel. G. = 5.416 kcal/mol - G(corr)(Eh) = 1.16425603
+9  G = -3530.3799961390378 Eh - Rel. G. = 6.054 kcal/mol - G(corr)(Eh) = 1.16425999
+10 G = -3530.379333646623  Eh - Rel. G. = 6.470 kcal/mol - G(corr)(Eh) = 1.16410725
+11 G = -3530.379244251595  Eh - Rel. G. = 6.526 kcal/mol - G(corr)(Eh) = 1.16353615
+12 G = -3530.378966813786  Eh - Rel. G. = 6.700 kcal/mol - G(corr)(Eh) = 1.16456637
+13 G = -3530.375323693876  Eh - Rel. G. = 8.986 kcal/mol - G(corr)(Eh) = 1.16292169
+14 G = -3530.374268507087  Eh - Rel. G. = 9.648 kcal/mol - G(corr)(Eh) = 1.16385038
+
+P7_S4_rep
+1  G = -3530.395807273837  Eh - Rel. G. = 0.000 kcal/mol - G(corr)(Eh) = 1.16585597
+2  G = -3530.3954383115642 Eh - Rel. G. = 0.232 kcal/mol - G(corr)(Eh) = 1.16514553
+3  G = -3530.395288891341  Eh - Rel. G. = 0.325 kcal/mol - G(corr)(Eh) = 1.16534425
+4  G = -3530.393073254837  Eh - Rel. G. = 1.716 kcal/mol - G(corr)(Eh) = 1.16569794
+5  G = -3530.392304911012  Eh - Rel. G. = 2.198 kcal/mol - G(corr)(Eh) = 1.16589346
+6  G = -3530.390228499616  Eh - Rel. G. = 3.501 kcal/mol - G(corr)(Eh) = 1.16607700
+7  G = -3530.38957565402   Eh - Rel. G. = 3.910 kcal/mol - G(corr)(Eh) = 1.16557741
+8  G = -3530.388999498765  Eh - Rel. G. = 4.272 kcal/mol - G(corr)(Eh) = 1.16546241
+9  G = -3530.388985141583  Eh - Rel. G. = 4.281 kcal/mol - G(corr)(Eh) = 1.16593456
+10 G = -3530.388891589328  Eh - Rel. G. = 4.340 kcal/mol - G(corr)(Eh) = 1.16496848
+11 G = -3530.388705213316  Eh - Rel. G. = 4.457 kcal/mol - G(corr)(Eh) = 1.16487754
+12 G = -3530.388153491889  Eh - Rel. G. = 4.803 kcal/mol - G(corr)(Eh) = 1.16638518
+13 G = -3530.387873611977  Eh - Rel. G. = 4.978 kcal/mol - G(corr)(Eh) = 1.16505173
+14 G = -3530.387831953313  Eh - Rel. G. = 5.005 kcal/mol - G(corr)(Eh) = 1.16507399
+15 G = -3530.3873341255457 Eh - Rel. G. = 5.317 kcal/mol - G(corr)(Eh) = 1.16551625
+16 G = -3530.387222338673  Eh - Rel. G. = 5.387 kcal/mol - G(corr)(Eh) = 1.16547584
+17 G = -3530.3867092677997 Eh - Rel. G. = 5.709 kcal/mol - G(corr)(Eh) = 1.16512486
+18 G = -3530.385443352627  Eh - Rel. G. = 6.503 kcal/mol - G(corr)(Eh) = 1.16441692

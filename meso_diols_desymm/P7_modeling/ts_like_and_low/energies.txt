@@ -1,0 +1,34 @@
+P7_S10_ent
+1 SP_EE(Eh) = -3799.53350778, gcorr(Eh) = 1.19195630, G(Eh) = -3798.34155148, Rel. G(kcal/mol) = 0.00
+2 SP_EE(Eh) = -3799.53334287, gcorr(Eh) = 1.19203484, G(Eh) = -3798.34130803, Rel. G(kcal/mol) = 0.15
+3 SP_EE(Eh) = -3799.53343554, gcorr(Eh) = 1.19222940, G(Eh) = -3798.34120614, Rel. G(kcal/mol) = 0.22
+4 SP_EE(Eh) = -3799.53180277, gcorr(Eh) = 1.19233828, G(Eh) = -3798.33946449, Rel. G(kcal/mol) = 1.31
+
+P7_S10_rep
+1 SP_EE(Eh) = -3799.54304433, gcorr(Eh) = 1.19298362, G(Eh) = -3798.35006071, Rel. G(kcal/mol) = 0.00
+2 SP_EE(Eh) = -3799.54316441, gcorr(Eh) = 1.19338411, G(Eh) = -3798.34978030, Rel. G(kcal/mol) = 0.18
+3 SP_EE(Eh) = -3799.54304827, gcorr(Eh) = 1.19362180, G(Eh) = -3798.34942647, Rel. G(kcal/mol) = 0.40
+4 SP_EE(Eh) = -3799.54130504, gcorr(Eh) = 1.19245287, G(Eh) = -3798.34885217, Rel. G(kcal/mol) = 0.76
+5 SP_EE(Eh) = -3799.54064825, gcorr(Eh) = 1.19259269, G(Eh) = -3798.34805556, Rel. G(kcal/mol) = 1.26
+
+P7_S15_ent
+1 SP_EE(Eh) = -3375.49833684, gcorr(Eh) = 1.04676664, G(Eh) = -3374.45157020, Rel. G(kcal/mol) = 0.00
+2 SP_EE(Eh) = -3375.49326734, gcorr(Eh) = 1.04258123, G(Eh) = -3374.45068611, Rel. G(kcal/mol) = 0.55
+3 SP_EE(Eh) = -3375.49391030, gcorr(Eh) = 1.04340689, G(Eh) = -3374.45050341, Rel. G(kcal/mol) = 0.67
+
+P7_S15_rep
+1 SP_EE(Eh) = -3375.50209912, gcorr(Eh) = 1.04438431, G(Eh) = -3374.45771481, Rel. G(kcal/mol) = 0.00
+2 SP_EE(Eh) = -3375.50069814, gcorr(Eh) = 1.04499542, G(Eh) = -3374.45570272, Rel. G(kcal/mol) = 1.26
+3 SP_EE(Eh) = -3375.49960278, gcorr(Eh) = 1.04397140, G(Eh) = -3374.45563138, Rel. G(kcal/mol) = 1.31
+4 SP_EE(Eh) = -3375.49979173, gcorr(Eh) = 1.04430791, G(Eh) = -3374.45548382, Rel. G(kcal/mol) = 1.40
+
+P7_S4_ent
+1 SP_EE(Eh) = -3531.54938279, gcorr(Eh) = 1.16382266, G(Eh) = -3530.38556013, Rel. G(kcal/mol) = 0.00
+2 SP_EE(Eh) = -3531.54897033, gcorr(Eh) = 1.16476724, G(Eh) = -3530.38420309, Rel. G(kcal/mol) = 0.85
+3 SP_EE(Eh) = -3531.54752662, gcorr(Eh) = 1.16504551, G(Eh) = -3530.38248111, Rel. G(kcal/mol) = 1.93
+
+P7_S4_rep
+1 SP_EE(Eh) = -3531.56166324, gcorr(Eh) = 1.16585597, G(Eh) = -3530.39580727, Rel. G(kcal/mol) = 0.00
+2 SP_EE(Eh) = -3531.56058384, gcorr(Eh) = 1.16514553, G(Eh) = -3530.39543831, Rel. G(kcal/mol) = 0.23
+3 SP_EE(Eh) = -3531.56063314, gcorr(Eh) = 1.16534425, G(Eh) = -3530.39528889, Rel. G(kcal/mol) = 0.33
+4 SP_EE(Eh) = -3531.55877119, gcorr(Eh) = 1.16569794, G(Eh) = -3530.39307325, Rel. G(kcal/mol) = 1.72
